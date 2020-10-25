@@ -20,3 +20,4 @@ for i in  range(25):
     print(walk, "Distance from home =",
           abs(walk[0]) + abs(walk[1]))
 
+# that is the start
