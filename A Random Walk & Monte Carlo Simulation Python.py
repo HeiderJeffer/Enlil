@@ -13,7 +13,7 @@ def random_walk(n):
         elif step == 'E':
             x = x + 1
         else:
-            x = x - 1
+            x = x - 1 
     return (x, y)
 for i in  range(25):
     walk = random_walk(10)
