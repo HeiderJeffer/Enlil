@@ -1,5 +1,4 @@
-# what is the longest random walk you can take so that
-# on average you will end up 4 bloacks or fewer from home?
+# what is the longest random walk you can take so that on average you will end up 4 blocks or fewer from home?
 import random
 def random_walk(n):
     x = 0
