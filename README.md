@@ -17,7 +17,33 @@
 * Time required to program according to Halstead
 * Volume according to Halstead
 
-## We used multimetric to extract the following information from our code:
+## Example 
+We use multimetric to extract the following information from Monte-Carlo-Longest-Random-Walk.py file
+
+Output:
+
+```
+      "comment_ratio": 34.92063492063492,
+      "cyclomatic_complexity": 5,
+      "fanout_external": 1,
+      "fanout_internal": 0,
+      "halstead_bugprop": 0.26407821806216875,
+      "halstead_difficulty": 17.41071428571429,
+      "halstead_effort": 13793.371211282923,
+      "halstead_timerequired": 766.2984006268291,
+      "halstead_volume": 792.2346541865063,
+      "lang": [
+        "Python"
+      ],
+      "loc": 1,
+      "operands_sum": 65,
+      "operands_uniq": 28,
+      "operators_sum": 81,
+      "operators_uniq": 15
+    }
+```
+
+## multimetric extract the following information from our codes:
 
 | item                  | description                                    | range    | recommendation |
 | --------------------- | ---------------------------------------------- | -------- | -------------- |
