@@ -1,4 +1,4 @@
-# Monte Carlo Simulation Python and calculate complexit metrics of the code
+# Monte Carlo Simulation Python and calculate complexity metrics of the code
 - by Heider Jeffer
 ## In This project we answer the following question
 - what is the longest random walk you can take so that on average you will end up 4 blocks or fewer from home?
