@@ -6,7 +6,7 @@ Implement  Monte Carlo Simulation in Python to answer the following question:
 - what is the longest random walk you can take so that on average you will end up 4 blocks or fewer from home?
 - The Longest-Random-Walk?
 
-Using multimetric to calculate the following metrics for this project:
+Using multimetric to extract the following information from our code:
 
 - Comment to Code percentage
 - Cyclomatic complexity according to McCabe
@@ -50,7 +50,7 @@ Output:
     }
 ```
 
-## multimetric extract the following information from our codes:
+## The extracted information describe the following:
 
 | item                  | description                                    | range    | recommendation |
 | --------------------- | ---------------------------------------------- | -------- | -------------- |
