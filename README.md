@@ -2,8 +2,8 @@
 - by Heider Jeffer
 # Purpose
 - Implement  Monte Carlo Simulation in Python to answer the following question
-      - what is the longest random walk you can take so that on average you will end up 4 blocks or fewer from home?
-      - The Longest-Random-Walk?
+* what is the longest random walk you can take so that on average you will end up 4 blocks or fewer from home?
+* The Longest-Random-Walk?
       
 - Using multimetric to calculate the following metrics for this project:
       - Comment to Code percentage
