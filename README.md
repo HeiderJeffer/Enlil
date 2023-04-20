@@ -1,3 +1,2 @@
-"# -Monte-Carlo-Simulation-Python-" 
-* git add --all
-* Monte Carlo Simulation by Heider Jeffer
+# Monte Carlo Simulation Python 
+- by Heider Jeffer
