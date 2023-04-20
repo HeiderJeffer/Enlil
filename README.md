@@ -6,18 +6,18 @@
       - The Longest-Random-Walk?
       
 - Using multimetric to calculate the following metrics for this project:
-      * Comment to Code percentage
-      * Cyclomatic complexity according to McCabe
-      * Difficulty according to Halstead
-      * Effort according to Halstead
-      * Fan-Out
-      * Lines of code
-      * Maintainability index
-      * Metric according to pylint
-      * Metric according to TIOBE
-      * Number of delivered bugs according to Halstead
-      * Time required to program according to Halstead
-      * Volume according to Halstead
+      - Comment to Code percentage
+      - Cyclomatic complexity according to McCabe
+      - Difficulty according to Halstead
+      - Effort according to Halstead
+      - Fan-Out
+      - Lines of code
+      - Maintainability index
+      - Metric according to pylint
+      - Metric according to TIOBE
+      - Number of delivered bugs according to Halstead
+      - Time required to program according to Halstead
+      - Volume according to Halstead
 
 - Example 
 We use multimetric to extract the following information from Monte-Carlo-Longest-Random-Walk.py file
