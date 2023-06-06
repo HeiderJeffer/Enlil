@@ -1,4 +1,12 @@
 # Monte Carlo Simulation Python and calculate complexity metrics
+
+
+<body>
+<img src = "https://github-vistors-counter.onrender.com/github?username=https://github.com/HeiderJeffer/Monte-Carlo-Simulation-and-calculate-complexity-metrics/" alt = "Visitors-Counter"/>
+</body>
+
+
+
 - by Heider Jeffer
 # Purpose
 Implement  Monte Carlo Simulation in Python to answer the following question:
